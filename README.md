@@ -111,3 +111,8 @@ docker compose up -d
 ### TTS Running in LocalAI
 
 ![LocalAI TTS using Piper VITS](images/ttl_homepage.png)
+
+
+## Architecture
+
+![LocalAI TTS Architecture](images/architecture-diagram.png)

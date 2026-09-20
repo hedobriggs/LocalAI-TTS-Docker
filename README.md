@@ -106,3 +106,8 @@ docker compose up -d
 - Piper VITS
 - sherpa-onnx
 - REST API
+
+
+### TTS Running in LocalAI
+
+![LocalAI TTS using Piper VITS](images/ttl_homepage.png)

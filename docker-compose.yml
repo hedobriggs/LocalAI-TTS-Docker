@@ -1,0 +1,12 @@
+services:
+  local-ai:
+    image: localai/localai:latest
+    container_name: local-ai
+    ports:
+      - "8080:8080"
+    volumes:
+      - local-ai-models:/build/models
+    restart: unless-stopped
+
+volumes:
+  local-ai-models:

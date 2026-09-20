@@ -115,4 +115,4 @@ docker compose up -d
 
 ## Architecture
 
-![LocalAI TTS Architecture](images/architecture-diagram.png)
+![LocalAI TTS Architecture](images/architectural.diagram.png)
